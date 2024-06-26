@@ -26,7 +26,7 @@ public class TasksTest {
 		
 		//Assert.assertEquals("Sucess!", mensagem);
 		
-		//driver.quit();
+		driver.quit();
 		
 	}
 	
